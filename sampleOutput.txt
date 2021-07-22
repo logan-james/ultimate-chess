@@ -1,0 +1,973 @@
+
+Round 1 of 400 | Active pieces left: 240
+
+Collision detected!
+Rook at (2.53642, 12.3011) hit a Bishop at (3.63564, 11.978)
+
+Collision detected!
+Queen at (55.7373, 10.1915) hit a Bishop at (55.7891, 8.65734)
+
+Collision detected!
+Bishop at (8.26215, 18.6118) hit a Bishop at (7.97232, 16.8422)
+
+Collision detected!
+Queen at (3.88792, 23.8623) hit a Bishop at (3.24622, 23.4233)
+
+Collision detected!
+Queen at (3.88792, 23.8623) hit a Rook at (3.29048, 22.6639)
+
+Collision detected!
+Bishop at (10.9934, 5.51238) hit a Bishop at (11.6558, 4.27818)
+
+Collision detected!
+Bishop at (10.9934, 5.51238) hit a Rook at (9.68752, 5.27296)
+
+Collision detected!
+Rook at (25.0128, 17.5734) hit a Queen at (23.4074, 16.058)
+
+Collision detected!
+Queen at (58.3536, 5.70746) hit a Queen at (58.5752, 4.00558)
+
+Collision detected!
+Bishop at (28.0224, 35.7134) hit a Queen at (27.5759, 34.134)
+
+Collision detected!
+Bishop at (28.0224, 35.7134) hit a Queen at (28.6291, 34.5712)
+
+Collision detected!
+Bishop at (28.0224, 35.7134) hit a Rook at (28.2556, 35.5253)
+
+Collision detected!
+Rook at (28.0697, 27.8453) hit a Rook at (28.6751, 26.2926)
+
+Collision detected!
+Queen at (32.1412, 32.4489) hit a Rook at (30.7479, 33.9322)
+
+Collision detected!
+Bishop at (9.68713, 43.6796) hit a Bishop at (7.85018, 44.2995)
+
+Collision detected!
+Rook at (20.4336, 54.8392) hit a Bishop at (21.5771, 56.7839)
+
+Collision detected!
+Queen at (53.7093, 31.1921) hit a Queen at (52.1675, 31.1213)
+
+Collision detected!
+Bishop at (42.0626, 19.0198) hit a Queen at (41.4621, 19.4937)
+
+Collision detected!
+Rook at (7.64663, 55.7722) hit a Rook at (6.63945, 54.0332)
+
+Collision detected!
+Bishop at (28.231, 6.0127) hit a Bishop at (27.1989, 7.62539)
+
+Collision detected!
+Queen at (26.5483, 36.9865) hit a Bishop at (28.0224, 35.7134)
+
+Collision detected!
+Queen at (12.0966, 47.4299) hit a Rook at (12.6046, 48.8592)
+
+Collision detected!
+Queen at (12.0966, 47.4299) hit a Rook at (13.0666, 47.0361)
+
+Collision detected!
+Rook at (15.3614, 13.0648) hit a Rook at (13.4171, 11.5815)
+
+Collision detected!
+Rook at (15.3614, 13.0648) hit a Rook at (13.8525, 11.5762)
+
+Collision detected!
+Queen at (20.3575, 42.6561) hit a Queen at (22.0409, 42.1684)
+
+Collision detected!
+Queen at (20.3575, 42.6561) hit a Rook at (21.5152, 44.05)
+
+Collision detected!
+Bishop at (8.93655, 57.9278) hit a Bishop at (10.4327, 56.8918)
+
+Collision detected!
+Rook at (23.4377, 17.6475) hit a Rook at (25.0128, 17.5734)
+
+Collision detected!
+Bishop at (57.326, 35.1938) hit a Rook at (57.483, 34.219)
+
+Collision detected!
+Rook at (52.6968, 43.1432) hit a Queen at (52.5056, 45.0678)
+
+Collision detected!
+Bishop at (47.9136, 43.9194) hit a Bishop at (49.1796, 43.6464)
+
+Collision detected!
+Queen at (5.72741, 37.4445) hit a Rook at (4.83221, 37.9096)
+
+Collision detected!
+Queen at (54.7925, 47.6653) hit a Queen at (54.612, 45.682)
+
+Collision detected!
+Bishop at (16.51, 25.5609) hit a Queen at (16.4439, 27.4307)
+
+Collision detected!
+Bishop at (16.51, 25.5609) hit a Queen at (16.4103, 27.2838)
+
+Collision detected!
+Rook at (46.3467, 2.82672) hit a Queen at (47.2998, 2.46916)
+
+Collision detected!
+Queen at (42.8622, 7.96608) hit a Bishop at (44.0146, 8.76354)
+
+Collision detected!
+Queen at (42.8622, 7.96608) hit a Rook at (41.14, 7.71212)
+
+Collision detected!
+Bishop at (55.9086, 39.3319) hit a Queen at (55.3076, 37.837)
+
+Collision detected!
+Rook at (21.3903, 38.7681) hit a Rook at (21.0921, 38.961)
+
+Collision detected!
+Bishop at (28.0764, 16.054) hit a Bishop at (28.7477, 15.904)
+
+Collision detected!
+Queen at (34.3168, 43.0618) hit a Queen at (35.3925, 44.5898)
+
+Collision detected!
+Bishop at (30.0836, 22.8538) hit a Bishop at (30.4186, 23.8552)
+
+Collision detected!
+Bishop at (30.0836, 22.8538) hit a Bishop at (28.3813, 21.9612)
+
+Collision detected!
+Queen at (11.1426, 45.6819) hit a Queen at (12.0966, 47.4299)
+
+Collision detected!
+Rook at (28.5565, 21.1556) hit a Bishop at (30.0836, 22.8538)
+
+Collision detected!
+Rook at (56.7158, 43.8606) hit a Bishop at (55.8404, 43.9473)
+
+Collision detected!
+Queen at (22.4621, 19.216) hit a Rook at (23.4377, 17.6475)
+
+Collision detected!
+Bishop at (15.1304, 24.2004) hit a Bishop at (16.51, 25.5609)
+
+Collision detected!
+Queen at (8.27416, 33.4685) hit a Bishop at (9.4698, 32.5356)
+
+Collision detected!
+Bishop at (38.5243, 12.3085) hit a Bishop at (38.1751, 13.8295)
+
+Collision detected!
+Rook at (50.4629, 23.2401) hit a Rook at (49.7567, 21.432)
+
+Collision detected!
+Queen at (35.6157, 25.7543) hit a Bishop at (33.7287, 26.0182)
+
+Collision detected!
+Rook at (19.8825, 51.2276) hit a Rook at (21.7895, 49.6965)
+
+Collision detected!
+Queen at (39.9505, 51.5995) hit a Bishop at (41.1134, 53.118)
+
+Collision detected!
+Bishop at (13.0113, 6.5461) hit a Queen at (14.7039, 5.76858)
+
+Collision detected!
+Queen at (42.6538, 36.1532) hit a Rook at (43.1065, 37.4759)
+
+Collision detected!
+Queen at (42.6538, 36.1532) hit a Bishop at (43.4977, 34.9111)
+
+Collision detected!
+Rook at (15.5172, 35.6209) hit a Rook at (14.5446, 34.6013)
+
+Collision detected!
+Bishop at (47.3802, 42.3727) hit a Bishop at (47.9136, 43.9194)
+
+Collision detected!
+Rook at (23.9162, 28.0857) hit a Bishop at (23.7401, 27.8715)
+
+Collision detected!
+Queen at (44.4861, 14.9659) hit a Bishop at (46.2024, 14.1127)
+
+Collision detected!
+Bishop at (58.1534, 55.9055) hit a Queen at (58.7699, 54.9147)
+
+Collision detected!
+Rook at (53.3101, 54.6757) hit a Bishop at (51.3816, 53.3782)
+
+Collision detected!
+Bishop at (47.0826, 47.6923) hit a Rook at (45.9192, 48.9991)
+
+Collision detected!
+Rook at (4.97559, 58.1991) hit a Rook at (4.43217, 58.2672)
+
+Collision detected!
+Queen at (15.7425, 45.3727) hit a Bishop at (17.074, 45.3616)
+
+Collision detected!
+Bishop at (24.1482, 19.7355) hit a Queen at (22.4621, 19.216)
+
+Collision detected!
+Rook at (28.7972, 1.30184) hit a Queen at (28.1335, 1.74343)
+
+Collision detected!
+Queen at (30.4948, 44.7244) hit a Bishop at (29.8628, 42.8304)
+
+Collision detected!
+Rook at (45.1748, 30.077) hit a Queen at (46.5936, 31.0027)
+
+Collision detected!
+Rook at (45.1748, 30.077) hit a Rook at (43.7667, 28.245)
+
+Collision detected!
+Queen at (27.4511, 44.6111) hit a Rook at (26.4041, 45.243)
+
+Collision detected!
+Bishop at (24.0045, 49.3838) hit a Bishop at (22.1152, 49.0221)
+
+Collision detected!
+Rook at (47.3025, 20.9239) hit a Queen at (46.4661, 20.3858)
+
+Collision detected!
+Queen at (25.7075, 57.9751) hit a Rook at (26.1404, 56.9379)
+
+Collision detected!
+Bishop at (54.4646, 45.8727) hit a Queen at (54.7925, 47.6653)
+
+Collision detected!
+Rook at (9.47688, 3.66126) hit a Bishop at (10.9934, 5.51238)
+
+Collision detected!
+Queen at (17.0135, 11.4147) hit a Rook at (15.3614, 13.0648)
+
+Collision detected!
+Rook at (3.15064, 10.508) hit a Rook at (2.53642, 12.3011)
+
+Collision detected!
+Queen at (25.6854, 55.344) hit a Rook at (24.1065, 53.9624)
+
+Collision detected!
+Bishop at (37.741, 9.00204) hit a Queen at (39.0229, 10.1106)
+
+Collision detected!
+Queen at (46.8627, 30.4841) hit a Rook at (45.1748, 30.077)
+
+Collision detected!
+Queen at (25.6359, 24.4561) hit a Rook at (27.5954, 23.949)
+
+Collision detected!
+Bishop at (18.125, 3.83166) hit a Rook at (19.6619, 2.79839)
+
+Collision detected!
+Bishop at (18.125, 3.83166) hit a Queen at (19.8867, 4.43217)
+
+Collision detected!
+Bishop at (18.125, 3.83166) hit a Bishop at (18.0635, 3.65157)
+
+Collision detected!
+Rook at (19.966, 3.45686) hit a Bishop at (18.125, 3.83166)
+
+Collision detected!
+Queen at (23.1432, 52.7406) hit a Rook at (23.4782, 53.9978)
+
+Collision detected!
+Rook at (51.009, 37.7219) hit a Queen at (50.7692, 36.3413)
+
+Collision detected!
+Queen at (7.22805, 36.6457) hit a Queen at (5.72741, 37.4445)
+
+Collision detected!
+Bishop at (35.9844, 8.7062) hit a Bishop at (37.741, 9.00204)
+
+Collision detected!
+Queen at (6.79168, 23.3344) hit a Queen at (8.48604, 22.71)
+
+Collision detected!
+Bishop at (21.5568, 2.07705) hit a Rook at (19.966, 3.45686)
+
+Collision detected!
+Queen at (41.5842, 21.8647) hit a Queen at (41.6444, 23.2622)
+
+Collision detected!
+Queen at (35.146, 17.3816) hit a Queen at (35.7625, 16.7183)
+
+Collision detected!
+Queen at (35.146, 17.3816) hit a Rook at (33.233, 17.3201)
+
+Collision detected!
+Queen at (35.146, 17.3816) hit a Queen at (34.4154, 16.1093)
+
+Collision detected!
+Queen at (35.146, 17.3816) hit a Bishop at (34.8155, 16.5961)
+
+Collision detected!
+Bishop at (11.4652, 43.9007) hit a Bishop at (9.68713, 43.6796)
+
+Collision detected!
+Bishop at (11.4652, 43.9007) hit a Queen at (11.1426, 45.6819)
+
+Collision detected!
+Rook at (45.1527, 7.68464) hit a Bishop at (44.3314, 6.5067)
+
+Collision detected!
+Queen at (38.4419, 36.1895) hit a Queen at (39.5823, 37.8317)
+
+Collision detected!
+Bishop at (44.2684, 36.3562) hit a Queen at (42.6538, 36.1532)
+
+Collision detected!
+Rook at (53.5598, 13.4879) hit a Queen at (51.7958, 12.1049)
+
+Collision detected!
+Queen at (33.4497, 17.8759) hit a Queen at (35.146, 17.3816)
+
+Collision detected!
+Bishop at (24.3431, 21.4751) hit a Bishop at (24.1482, 19.7355)
+
+Collision detected!
+Bishop at (6.74936, 19.724) hit a Bishop at (8.26215, 18.6118)
+
+Collision detected!
+Bishop at (21.6387, 40.5042) hit a Rook at (21.3903, 38.7681)
+
+Collision detected!
+Rook at (17.0457, 47.2583) hit a Queen at (15.7425, 45.3727)
+
+Collision detected!
+Rook at (17.0457, 47.2583) hit a Rook at (18.06, 47.822)
+
+Collision detected!
+Queen at (51.8973, 13.1498) hit a Rook at (53.5598, 13.4879)
+
+Collision detected!
+Bishop at (38.0665, 51.8748) hit a Queen at (39.9505, 51.5995)
+
+Collision detected!
+Bishop at (38.0665, 51.8748) hit a Rook at (37.1679, 53.6172)
+
+Collision detected!
+Queen at (2, 48.4322) hit a Bishop at (2.59737, 49.8055)
+
+Collision detected!
+Queen at (25.5551, 50.3362) hit a Bishop at (24.0045, 49.3838)
+
+Collision detected!
+Rook at (13.6187, 36.5696) hit a Rook at (15.5172, 35.6209)
+
+Collision detected!
+Queen at (58, 33.5744) hit a Bishop at (57.326, 35.1938)
+
+Collision detected!
+Bishop at (4.96273, 12.6316) hit a Queen at (6.68902, 11.8121)
+
+Collision detected!
+Rook at (14.3269, 25.8919) hit a Bishop at (15.1304, 24.2004)
+
+Collision detected!
+Bishop at (18.548, 42.5636) hit a Queen at (20.3575, 42.6561)
+
+Collision detected!
+Queen at (12.4951, 56.005) hit a Bishop at (11.2381, 54.5483)
+
+Collision detected!
+Bishop at (25.6761, 39.6394) hit a Rook at (27.4797, 40.9753)
+
+Collision detected!
+Rook at (16.1477, 26.0766) hit a Rook at (14.3269, 25.8919)
+
+Collision detected!
+Rook at (37.0192, 28.8099) hit a Rook at (38.3521, 26.9468)
+
+Collision detected!
+Queen at (56.8812, 54.5816) hit a Bishop at (58.1534, 55.9055)
+
+Collision detected!
+Rook at (40.2514, 34.6437) hit a Queen at (38.4419, 36.1895)
+
+Collision detected!
+Rook at (3.83975, 31.1213) hit a Bishop at (2.13505, 29.9987)
+
+Collision detected!
+Rook at (23.5656, 30.1106) hit a Rook at (25.0659, 30.4044)
+
+Collision detected!
+Queen at (36.2829, 6.80491) hit a Bishop at (35.9844, 8.7062)
+
+Round 2 of 400 | Active pieces left: 109
+
+Collision detected!
+Rook at (17.9077, 52.7361) hit a Rook at (19.8825, 51.2276)
+
+Collision detected!
+Queen at (3.88792, 13.8623) hit a Bishop at (4.96273, 12.6316)
+
+Collision detected!
+Rook at (25.7874, 27.8453) hit a Rook at (23.9162, 28.0857)
+
+Collision detected!
+Queen at (28.2521, 36.338) hit a Queen at (26.5483, 36.9865)
+
+Collision detected!
+Queen at (50.7093, 31.1921) hit a Bishop at (50.246, 29.4018)
+
+Collision detected!
+Rook at (7.64663, 50.2955) hit a Queen at (9.59725, 49.4477)
+
+Collision detected!
+Bishop at (22.9277, 2) hit a Bishop at (21.5568, 2.07705)
+
+Collision detected!
+Rook at (58.8835, 23.5251) hit a Queen at (58.7231, 21.8196)
+
+Collision detected!
+Bishop at (12.4721, 58) hit a Queen at (12.4951, 56.005)
+
+Collision detected!
+Rook at (55.1968, 43.1432) hit a Rook at (56.7158, 43.8606)
+
+Collision detected!
+Queen at (42.8622, 13.9661) hit a Queen at (44.4861, 14.9659)
+
+Collision detected!
+Queen at (3.87668, 56.2974) hit a Rook at (4.97559, 58.1991)
+
+Collision detected!
+Rook at (36.8173, 13.8242) hit a Bishop at (38.5243, 12.3085)
+
+Collision detected!
+Queen at (41.0343, 36.3443) hit a Rook at (40.2514, 34.6437)
+
+Collision detected!
+Bishop at (45.0916, 9.52716) hit a Rook at (45.1527, 7.68464)
+
+Collision detected!
+Rook at (55.3101, 54.6757) hit a Queen at (56.8812, 54.5816)
+
+Collision detected!
+Bishop at (58.3536, 3.48035) hit a Queen at (58, 5.35391)
+
+Collision detected!
+Queen at (46.8627, 33.4841) hit a Rook at (47.9318, 35.0934)
+
+Collision detected!
+Queen at (25.6359, 25.9561) hit a Rook at (25.7874, 27.8453)
+
+Collision detected!
+Queen at (23.1432, 42.7406) hit a Queen at (24.617, 41.7769)
+
+Collision detected!
+Rook at (51.009, 32.7219) hit a Queen at (50.7093, 31.1921)
+
+Collision detected!
+Bishop at (45.6827, 34.942) hit a Queen at (46.8627, 33.4841)
+
+Collision detected!
+Bishop at (31.5168, 27.2137) hit a Queen at (32.5951, 28.7749)
+
+Collision detected!
+Queen at (47.6546, 17.3924) hit a Rook at (45.8639, 16.3814)
+
+Collision detected!
+Bishop at (31.349, 45.1573) hit a Queen at (30.4948, 43.5)
+
+Collision detected!
+Queen at (2, 32.6278) hit a Rook at (3.83975, 31.1213)
+
+Collision detected!
+Rook at (13.6187, 35.0696) hit a Bishop at (14.5648, 33.4303)
+
+Collision detected!
+Bishop at (23.9084, 41.4072) hit a Queen at (23.1432, 42.7406)
+
+Collision detected!
+Rook at (14.6477, 26.0766) hit a Queen at (13.4613, 24.1105)
+
+Collision detected!
+Rook at (37.5192, 28.8099) hit a Queen at (38.6946, 26.8669)
+
+Collision detected!
+Rook at (23.5656, 39.6106) hit a Bishop at (23.9084, 41.4072)
+
+Collision detected!
+Rook at (58.7578, 25.0589) hit a Rook at (58.8835, 23.5251)
+
+Collision detected!
+Queen at (44.7829, 6.80491) hit a Rook at (46.3467, 5.56006)
+
+Round 3 of 400 | Active pieces left: 76
+
+Collision detected!
+Queen at (57.8747, 15.4948) hit a Rook at (58.7336, 17.2872)
+
+Collision detected!
+Bishop at (41.9745, 18.9317) hit a Queen at (41.5842, 20.8546)
+
+Collision detected!
+Queen at (18.8631, 20.4359) hit a Bishop at (17.8909, 18.6997)
+
+Collision detected!
+Bishop at (21.3291, 36.488) hit a Queen at (19.5569, 36.338)
+
+Collision detected!
+Bishop at (50.9589, 34.3821) hit a Rook at (51.009, 32.7219)
+
+Collision detected!
+Rook at (10.3846, 20.6451) hit a Bishop at (8.53883, 21.5135)
+
+Collision detected!
+Bishop at (43.8447, 39.5443) hit a Queen at (42.823, 38.133)
+
+Collision detected!
+Bishop at (56.9089, 57.5186) hit a Queen at (58.2599, 58.967)
+
+Collision detected!
+Rook at (53.1088, 1.86791) hit a Rook at (54.9271, 2)
+
+Collision detected!
+Rook at (47.3025, 33.3667) hit a Bishop at (45.6827, 34.942)
+
+Collision detected!
+Queen at (12.0637, 18.9794) hit a Rook at (10.3846, 20.6451)
+
+Collision detected!
+Queen at (30.8748, 48.7404) hit a Bishop at (29.7205, 47.2761)
+
+Collision detected!
+Queen at (2, 12.2155) hit a Rook at (3.15064, 10.8864)
+
+Collision detected!
+Bishop at (8.10649, 47.2595) hit a Rook at (7.64663, 48.997)
+
+Collision detected!
+Bishop at (19.9154, 21.6601) hit a Queen at (18.8631, 20.4359)
+
+Collision detected!
+Bishop at (58.8371, 45.0203) hit a Rook at (58.9167, 43.1432)
+
+Collision detected!
+Rook at (12.2172, 36.7583) hit a Rook at (13.6187, 35.0696)
+
+Collision detected!
+Queen at (7.62228, 42.7512) hit a Rook at (9.1342, 44.0009)
+
+Collision detected!
+Queen at (52.4492, 33.5744) hit a Bishop at (50.9589, 34.3821)
+
+Collision detected!
+Bishop at (35.7636, 47.1783) hit a Bishop at (34.0339, 47.8423)
+
+Collision detected!
+Queen at (44.7829, 2.30491) hit a Bishop at (43.1175, 1.58089)
+
+Round 4 of 400 | Active pieces left: 55
+
+Collision detected!
+Bishop at (39.4997, 21.4066) hit a Rook at (37.5192, 20.9232)
+
+Collision detected!
+Bishop at (16.0258, 31.1847) hit a Rook at (14.6477, 29.8123)
+
+Collision detected!
+Queen at (4.49681, 54.4175) hit a Bishop at (5.82874, 53.3306)
+
+Collision detected!
+Rook at (31.326, 24.1556) hit a Queen at (31.0247, 26.0851)
+
+Collision detected!
+Bishop at (48.0873, 35.3016) hit a Rook at (47.3025, 33.3667)
+
+Collision detected!
+Rook at (23.5087, 8.89477) hit a Bishop at (21.9228, 10.2257)
+
+Collision detected!
+Queen at (9.26704, 42.8229) hit a Queen at (7.62228, 42.7512)
+
+Collision detected!
+Queen at (3.41421, 31.3789) hit a Queen at (1.86131, 32.6278)
+
+Collision detected!
+Queen at (1.29289, 7.26576) hit a Rook at (1.07082, 5.31623)
+
+Collision detected!
+Queen at (21.4743, 53.1247) hit a Rook at (20.9336, 54.7753)
+
+Collision detected!
+Queen at (1.61248, 22.0944) hit a Queen at (1.99878, 20.2381)
+
+Collision detected!
+Queen at (7.02538, 1.43264) hit a Bishop at (8.57538, 1.68327)
+
+Collision detected!
+Bishop at (29.4263, 23.2807) hit a Rook at (31.326, 24.1556)
+
+Collision detected!
+Rook at (54.7578, 32.7535) hit a Queen at (52.8027, 33.2208)
+
+Round 5 of 400 | Active pieces left: 41
+
+Collision detected!
+Bishop at (14.258, 29.4169) hit a Bishop at (12.2829, 29.2926)
+
+Collision detected!
+Bishop at (50.4513, 3.46033) hit a Rook at (51.9967, 1.86791)
+
+Collision detected!
+Queen at (33.4023, 47.7129) hit a Bishop at (33.4007, 49.5412)
+
+Round 6 of 400 | Active pieces left: 38
+
+Collision detected!
+Queen at (58.932, 15.3978) hit a Rook at (58.6794, 17.2284)
+
+Collision detected!
+Rook at (27.5087, 11.1731) hit a Bishop at (29.132, 12.6477)
+
+Collision detected!
+Bishop at (2.05013, 47.9314) hit a Queen at (2.99239, 49.1498)
+
+Collision detected!
+Rook at (12.2172, 40.8905) hit a Bishop at (12.1827, 42.528)
+
+Collision detected!
+Queen at (14.1284, 41.5256) hit a Rook at (12.2172, 40.8905)
+
+Collision detected!
+Queen at (1.61248, 21.2686) hit a Queen at (3.13732, 20.3737)
+
+Collision detected!
+Bishop at (29.4934, 11.8999) hit a Rook at (27.5087, 11.1731)
+
+Round 7 of 400 | Active pieces left: 31
+
+Collision detected!
+Queen at (7.06635, 30.7433) hit a Queen at (5.92119, 29.372)
+
+Collision detected!
+Queen at (8.27045, 29.6186) hit a Queen at (7.06635, 30.7433)
+
+Collision detected!
+Queen at (3.6284, 41.5256) hit a Bishop at (1.96012, 40.4669)
+
+Collision detected!
+Rook at (24.1888, 41.8711) hit a Bishop at (24.92, 40.0789)
+
+Round 8 of 400 | Active pieces left: 27
+
+Collision detected!
+Queen at (45.5614, 5.36785) hit a Bishop at (43.7099, 4.97725)
+
+Collision detected!
+Bishop at (39.8198, 12.0568) hit a Rook at (41.5731, 11.4)
+
+Collision detected!
+Bishop at (46.8631, 6.5637) hit a Queen at (45.5614, 5.36785)
+
+Collision detected!
+Bishop at (58.3536, 57.0887) hit a Rook at (58.5531, 58.9199)
+
+Collision detected!
+Queen at (5.39617, 43.2934) hit a Rook at (4.65068, 45.0669)
+
+Collision detected!
+Queen at (46.4888, 4.86086) hit a Bishop at (46.8631, 6.5637)
+
+Round 9 of 400 | Active pieces left: 21
+
+Collision detected!
+Bishop at (56.9357, 58) hit a Bishop at (58.3536, 57.0887)
+
+Round 10 of 400 | Active pieces left: 20
+
+Collision detected!
+Queen at (58.9664, 18.6577) hit a Bishop at (58.9467, 16.8295)
+
+Collision detected!
+Queen at (2, 33.3108) hit a Queen at (1.13623, 31.5838)
+
+Round 11 of 400 | Active pieces left: 18
+
+Collision detected!
+Bishop at (25.8252, 25.4296) hit a Queen at (24.3235, 26.5829)
+
+Round 12 of 400 | Active pieces left: 17
+
+Round 13 of 400 | Active pieces left: 17
+
+Collision detected!
+Bishop at (24.7014, 22.3108) hit a Bishop at (25.0634, 20.5818)
+
+Collision detected!
+Queen at (26.1918, 53.8532) hit a Rook at (24.8305, 52.0026)
+
+Collision detected!
+Rook at (54.5408, 29.3493) hit a Queen at (55.7132, 27.5472)
+
+Round 14 of 400 | Active pieces left: 14
+
+Collision detected!
+Queen at (2.13296, 29.0755) hit a Queen at (2, 27.1502)
+
+Round 15 of 400 | Active pieces left: 13
+
+Round 16 of 400 | Active pieces left: 13
+
+Collision detected!
+Queen at (8.54058, 6.03634) hit a Bishop at (7.66195, 4.4036)
+
+Round 17 of 400 | Active pieces left: 12
+
+Collision detected!
+Bishop at (49.9851, 33.2375) hit a Rook at (49.038, 31.4814)
+
+Round 18 of 400 | Active pieces left: 11
+
+Round 19 of 400 | Active pieces left: 11
+
+Collision detected!
+Bishop at (51.2662, 18.1064) hit a Bishop at (50.653, 16.2214)
+
+Round 20 of 400 | Active pieces left: 10
+
+Round 21 of 400 | Active pieces left: 10
+
+Collision detected!
+Bishop at (43.3674, 15.3987) hit a Queen at (41.8869, 14.1678)
+
+Round 22 of 400 | Active pieces left: 9
+
+Round 23 of 400 | Active pieces left: 9
+
+Round 24 of 400 | Active pieces left: 9
+
+Round 25 of 400 | Active pieces left: 9
+
+Round 26 of 400 | Active pieces left: 9
+
+Round 27 of 400 | Active pieces left: 9
+
+Round 28 of 400 | Active pieces left: 9
+
+Round 29 of 400 | Active pieces left: 9
+
+Round 30 of 400 | Active pieces left: 9
+
+Round 31 of 400 | Active pieces left: 9
+
+Round 32 of 400 | Active pieces left: 9
+
+Collision detected!
+Bishop at (31.3339, 35.5497) hit a Bishop at (31.9821, 36.9681)
+
+Round 33 of 400 | Active pieces left: 8
+
+Round 34 of 400 | Active pieces left: 8
+
+Round 35 of 400 | Active pieces left: 8
+
+Round 36 of 400 | Active pieces left: 8
+
+Round 37 of 400 | Active pieces left: 8
+
+Round 38 of 400 | Active pieces left: 8
+
+Round 39 of 400 | Active pieces left: 8
+
+Round 40 of 400 | Active pieces left: 8
+
+Collision detected!
+Bishop at (23.7854, 12.4973) hit a Queen at (22.0836, 12.6934)
+
+Round 41 of 400 | Active pieces left: 7
+
+Round 42 of 400 | Active pieces left: 7
+
+Collision detected!
+Bishop at (58.3536, 30.4555) hit a Queen at (58.637, 32.0854)
+
+Round 43 of 400 | Active pieces left: 6
+
+Round 44 of 400 | Active pieces left: 6
+
+Round 45 of 400 | Active pieces left: 6
+
+Round 46 of 400 | Active pieces left: 6
+
+Collision detected!
+Queen at (46.951, 28.8019) hit a Queen at (45.5085, 27.8064)
+
+Collision detected!
+Queen at (22.9841, 12.1949) hit a Bishop at (24.1765, 10.6479)
+
+Round 47 of 400 | Active pieces left: 4
+
+Collision detected!
+Bishop at (56.127, 37.6922) hit a Queen at (54.6695, 36.5204)
+
+Round 48 of 400 | Active pieces left: 3
+
+Round 49 of 400 | Active pieces left: 3
+
+Round 50 of 400 | Active pieces left: 3
+
+Round 51 of 400 | Active pieces left: 3
+
+Round 52 of 400 | Active pieces left: 3
+
+Round 53 of 400 | Active pieces left: 3
+
+Round 54 of 400 | Active pieces left: 3
+
+Round 55 of 400 | Active pieces left: 3
+
+Round 56 of 400 | Active pieces left: 3
+
+Round 57 of 400 | Active pieces left: 3
+
+Round 58 of 400 | Active pieces left: 3
+
+Round 59 of 400 | Active pieces left: 3
+
+Round 60 of 400 | Active pieces left: 3
+
+Round 61 of 400 | Active pieces left: 3
+
+Round 62 of 400 | Active pieces left: 3
+
+Round 63 of 400 | Active pieces left: 3
+
+Round 64 of 400 | Active pieces left: 3
+
+Round 65 of 400 | Active pieces left: 3
+
+Round 66 of 400 | Active pieces left: 3
+
+Round 67 of 400 | Active pieces left: 3
+
+Round 68 of 400 | Active pieces left: 3
+
+Round 69 of 400 | Active pieces left: 3
+
+Round 70 of 400 | Active pieces left: 3
+
+Round 71 of 400 | Active pieces left: 3
+
+Round 72 of 400 | Active pieces left: 3
+
+Round 73 of 400 | Active pieces left: 3
+
+Round 74 of 400 | Active pieces left: 3
+
+Round 75 of 400 | Active pieces left: 3
+
+Round 76 of 400 | Active pieces left: 3
+
+Round 77 of 400 | Active pieces left: 3
+
+Round 78 of 400 | Active pieces left: 3
+
+Round 79 of 400 | Active pieces left: 3
+
+Round 80 of 400 | Active pieces left: 3
+
+Round 81 of 400 | Active pieces left: 3
+
+Round 82 of 400 | Active pieces left: 3
+
+Round 83 of 400 | Active pieces left: 3
+
+Round 84 of 400 | Active pieces left: 3
+
+Round 85 of 400 | Active pieces left: 3
+
+Round 86 of 400 | Active pieces left: 3
+
+Round 87 of 400 | Active pieces left: 3
+
+Round 88 of 400 | Active pieces left: 3
+
+Round 89 of 400 | Active pieces left: 3
+
+Round 90 of 400 | Active pieces left: 3
+
+Round 91 of 400 | Active pieces left: 3
+
+Round 92 of 400 | Active pieces left: 3
+
+Round 93 of 400 | Active pieces left: 3
+
+Round 94 of 400 | Active pieces left: 3
+
+Round 95 of 400 | Active pieces left: 3
+
+Round 96 of 400 | Active pieces left: 3
+
+Round 97 of 400 | Active pieces left: 3
+
+Round 98 of 400 | Active pieces left: 3
+
+Round 99 of 400 | Active pieces left: 3
+
+Round 100 of 400 | Active pieces left: 3
+
+Round 101 of 400 | Active pieces left: 3
+
+Round 102 of 400 | Active pieces left: 3
+
+Round 103 of 400 | Active pieces left: 3
+
+Round 104 of 400 | Active pieces left: 3
+
+Round 105 of 400 | Active pieces left: 3
+
+Round 106 of 400 | Active pieces left: 3
+
+Round 107 of 400 | Active pieces left: 3
+
+Round 108 of 400 | Active pieces left: 3
+
+Round 109 of 400 | Active pieces left: 3
+
+Round 110 of 400 | Active pieces left: 3
+
+Round 111 of 400 | Active pieces left: 3
+
+Round 112 of 400 | Active pieces left: 3
+
+Round 113 of 400 | Active pieces left: 3
+
+Round 114 of 400 | Active pieces left: 3
+
+Round 115 of 400 | Active pieces left: 3
+
+Round 116 of 400 | Active pieces left: 3
+
+Round 117 of 400 | Active pieces left: 3
+
+Round 118 of 400 | Active pieces left: 3
+
+Collision detected!
+Queen at (35.2445, 42.5911) hit a Bishop at (35.0956, 40.6988)
+
+Round 119 of 400 | Active pieces left: 2
+
+Round 120 of 400 | Active pieces left: 2
+
+Round 121 of 400 | Active pieces left: 2
+
+Round 122 of 400 | Active pieces left: 2
+
+Collision detected!
+Queen at (30.1617, 57.6872) hit a Bishop at (28.8488, 58.588)
+
+===== GAME OVER ======
+ SCOREBOARD
+======================
+> Rook: 62
+> Bishop: 82
+> Queen: 95
+
+Last piece standing
+===================
+Piece Queen is at (15.587075,48.168276)
+This piece wiped out 4 piece(s) during its lifetime
